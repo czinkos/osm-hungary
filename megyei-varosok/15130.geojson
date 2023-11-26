@@ -3966,5 +3966,5 @@
 {"type":"Feature","geometry":{"type":"LineString","coordinates":[[21.6499039,47.5219756],[21.6512122,47.5216704],[21.6518387,47.521527],[21.6523791,47.5214055],[21.6542998,47.5209809],[21.6549772,47.5208204]]},"properties":{"highway":"secondary","lanes":"2","name":"Vágóhíd utca","ref":"4814","surface":"asphalt"}},
 {"type":"Feature","geometry":{"type":"LineString","coordinates":[[21.5983308,47.5248597],[21.5983538,47.5246574]]},"properties":{"highway":"residential","name":"Derék utca"}},
 {"type":"Feature","geometry":{"type":"LineString","coordinates":[[21.6454724,47.5234922],[21.6454873,47.523487]]},"properties":{"highway":"secondary","lanes":"2","name":"Vágóhíd utca","ref":"4814","surface":"asphalt"}},
-{"type":"Feature","geometry":{"type":"LineString","coordinates":[[21.6113867,47.5188953],[21.6128175,47.5198227]]},"properties":{"highway":"living_street","name":"Zelemér utca"}},
+{"type":"Feature","geometry":{"type":"LineString","coordinates":[[21.6113867,47.5188953],[21.6128175,47.5198227]]},"properties":{"highway":"living_street","name":"Zelemér utca"}}
 ]}

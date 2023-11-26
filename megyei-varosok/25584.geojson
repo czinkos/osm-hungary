@@ -3079,5 +3079,5 @@
 {"type":"Feature","geometry":{"type":"LineString","coordinates":[[17.6475271,47.6679159],[17.6479047,47.6672093]]},"properties":{"highway":"residential","lit":"yes","name":"Szent Imre út","surface":"asphalt"}},
 {"type":"Feature","geometry":{"type":"LineString","coordinates":[[17.6481293,47.6670628],[17.6479552,47.6671567],[17.6479047,47.6672093]]},"properties":{"highway":"residential","lit":"yes","name":"Szent Imre út","oneway":"yes","surface":"asphalt"}},
 {"type":"Feature","geometry":{"type":"LineString","coordinates":[[17.6486447,47.666368],[17.6484559,47.6666119],[17.6484372,47.6666682],[17.648403,47.6667709]]},"properties":{"highway":"primary","lit":"yes","maxspeed":"50","name":"Szent Imre út","oneway":"yes","ref":"82","source:maxspeed":"HU:urban","surface":"asphalt"}},
-{"type":"Feature","geometry":{"type":"LineString","coordinates":[[17.6481458,47.6666774],[17.6482976,47.6665926]]},"properties":{"highway":"primary","lit":"yes","maxspeed":"50","name":"Szent Imre út","oneway":"yes","ref":"82","source:maxspeed":"HU:urban","surface":"asphalt"}},
+{"type":"Feature","geometry":{"type":"LineString","coordinates":[[17.6481458,47.6666774],[17.6482976,47.6665926]]},"properties":{"highway":"primary","lit":"yes","maxspeed":"50","name":"Szent Imre út","oneway":"yes","ref":"82","source:maxspeed":"HU:urban","surface":"asphalt"}}
 ]}

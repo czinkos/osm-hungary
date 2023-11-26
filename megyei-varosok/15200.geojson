@@ -1332,5 +1332,5 @@
 {"type":"Feature","geometry":{"type":"LineString","coordinates":[[21.0957491,46.6785621],[21.0958268,46.6784749],[21.0960633,46.6781744],[21.0961322,46.678109]]},"properties":{"highway":"footway","lit":"yes","name":"Európa sétány","surface":"paving_stones"}},
 {"type":"Feature","geometry":{"type":"LineString","coordinates":[[21.0960633,46.6781744],[21.0957784,46.6780614],[21.0952524,46.6778528],[21.0949195,46.6777208]]},"properties":{"alt_name":"Wlassits sétány","highway":"footway","lit":"yes","name":"Wlassics sétány","surface":"paving_stones"}},
 {"type":"Feature","geometry":{"type":"LineString","coordinates":[[21.0987219,46.6817393],[21.0988471,46.681469],[21.0981155,46.6812486]]},"properties":{"highway":"service","lit":"yes","name":"Bartoss udvar","service":"parking_aisle","smoothness":"excellent","surface":"asphalt"}},
-{"type":"Feature","geometry":{"type":"LineString","coordinates":[[21.1172006,46.6691801],[21.1167135,46.6693292],[21.1164004,46.6694276]]},"properties":{"highway":"service","name":"Pásztor utca"}},
+{"type":"Feature","geometry":{"type":"LineString","coordinates":[[21.1172006,46.6691801],[21.1167135,46.6693292],[21.1164004,46.6694276]]},"properties":{"highway":"service","name":"Pásztor utca"}}
 ]}

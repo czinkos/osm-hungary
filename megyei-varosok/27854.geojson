@@ -1386,5 +1386,5 @@
 {"type":"Feature","geometry":{"type":"LineString","coordinates":[[20.204796,47.116383],[20.2045117,47.1164079]]},"properties":{"highway":"residential","name":"Tóth Árpád utca"}},
 {"type":"Feature","geometry":{"type":"LineString","coordinates":[[20.1452856,47.14448],[20.1453529,47.144455]]},"properties":{"highway":"unclassified","name":"Panel utca"}},
 {"type":"Feature","geometry":{"type":"LineString","coordinates":[[20.1455051,47.1441343],[20.1449557,47.1443771],[20.1449137,47.1444414],[20.1450117,47.144508],[20.1451377,47.1445223],[20.1452856,47.14448]]},"properties":{"highway":"unclassified","name":"Panel utca"}},
-{"type":"Feature","geometry":{"type":"LineString","coordinates":[[20.1453529,47.144455],[20.1455681,47.1443533],[20.1455051,47.1442486],[20.1455051,47.1441343]]},"properties":{"highway":"unclassified","name":"Panel utca"}},
+{"type":"Feature","geometry":{"type":"LineString","coordinates":[[20.1453529,47.144455],[20.1455681,47.1443533],[20.1455051,47.1442486],[20.1455051,47.1441343]]},"properties":{"highway":"unclassified","name":"Panel utca"}}
 ]}

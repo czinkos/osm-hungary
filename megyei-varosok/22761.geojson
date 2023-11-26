@@ -926,5 +926,5 @@
 {"type":"Feature","geometry":{"type":"LineString","coordinates":[[18.7437539,46.3429347],[18.7438392,46.3430189]]},"properties":{"bridge":"yes","foot":"yes","highway":"cycleway","horse":"no","incline":"0%","layer":"1","name":"Szekszárd - Keselyűs kerékpárút","oneway":"no","smoothness":"excellent","surface":"asphalt","width":"3"}},
 {"type":"Feature","geometry":{"type":"LineString","coordinates":[[18.8504063,46.3284488],[18.8504628,46.3283069]]},"properties":{"bicycle":"designated","foot":"yes","highway":"cycleway","horse":"no","incline":"0%","name":"Szekszárd - Keselyűs kerékpárút","oneway":"no","smoothness":"excellent","surface":"asphalt","width":"3"}},
 {"type":"Feature","geometry":{"type":"LineString","coordinates":[[18.6902507,46.3313459],[18.6901809,46.3314839],[18.6900026,46.3318376],[18.6899234,46.3319376]]},"properties":{"highway":"track","name":"Levendula utca"}},
-{"type":"Feature","geometry":{"type":"LineString","coordinates":[[18.7091708,46.3443268],[18.708778,46.3443651],[18.708711,46.3443345],[18.7084548,46.3443604]]},"properties":{"highway":"service","name":"Tartsay lakótelep"}},
+{"type":"Feature","geometry":{"type":"LineString","coordinates":[[18.7091708,46.3443268],[18.708778,46.3443651],[18.708711,46.3443345],[18.7084548,46.3443604]]},"properties":{"highway":"service","name":"Tartsay lakótelep"}}
 ]}

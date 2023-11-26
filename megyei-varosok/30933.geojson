@@ -982,5 +982,5 @@
 {"type":"Feature","geometry":{"type":"LineString","coordinates":[[16.9605491,46.4429652],[16.9618115,46.4427766]]},"properties":{"highway":"residential","name":"Libolca tér","surface":"asphalt"}},
 {"type":"Feature","geometry":{"type":"LineString","coordinates":[[16.9679123,46.4440024],[16.9677748,46.4440086],[16.9667396,46.4440587],[16.9657439,46.4441123]]},"properties":{"highway":"residential","name":"Bornemissza utca"}},
 {"type":"Feature","geometry":{"type":"LineString","coordinates":[[16.9821515,46.4105293],[16.9821514,46.4104911],[16.9821786,46.410424],[16.982224,46.4103654]]},"properties":{"highway":"residential","name":"Nagykerteki út"}},
-{"type":"Feature","geometry":{"type":"LineString","coordinates":[[16.9916569,46.4668232],[16.9917808,46.4668255],[16.9929858,46.4668375],[16.9938448,46.4668517]]},"properties":{"bicycle":"no","highway":"primary","lit":"yes","maxspeed":"50","name":"Gábor Áron utca","ref":"7","source:maxspeed":"HU:urban","surface":"asphalt"}},
+{"type":"Feature","geometry":{"type":"LineString","coordinates":[[16.9916569,46.4668232],[16.9917808,46.4668255],[16.9929858,46.4668375],[16.9938448,46.4668517]]},"properties":{"bicycle":"no","highway":"primary","lit":"yes","maxspeed":"50","name":"Gábor Áron utca","ref":"7","source:maxspeed":"HU:urban","surface":"asphalt"}}
 ]}

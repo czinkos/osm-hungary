@@ -3278,5 +3278,5 @@
 {"type":"Feature","geometry":{"type":"LineString","coordinates":[[18.2752189,46.0635724],[18.2752494,46.0635711],[18.2752679,46.0635725],[18.2753542,46.0635883],[18.2754194,46.0636195],[18.2754504,46.0636489]]},"properties":{"highway":"primary","junction":"roundabout","name":"Mohácsi út","ref":"578","surface":"asphalt"}},
 {"type":"Feature","geometry":{"type":"LineString","coordinates":[[18.2751825,46.0635786],[18.2752189,46.0635724]]},"properties":{"highway":"primary","junction":"roundabout","name":"Mohácsi út","ref":"578","surface":"asphalt"}},
 {"type":"Feature","geometry":{"type":"LineString","coordinates":[[18.27504,46.063827],[18.2750184,46.0637939],[18.275008,46.0637611],[18.2750085,46.0637186]]},"properties":{"highway":"primary","junction":"roundabout","name":"Mohácsi út","ref":"578","surface":"asphalt"}},
-{"type":"Feature","geometry":{"type":"LineString","coordinates":[[18.2983298,46.1316625],[18.2979789,46.1319936],[18.2978657,46.1320994]]},"properties":{"highway":"residential","name":"Rücker-akna"}},
+{"type":"Feature","geometry":{"type":"LineString","coordinates":[[18.2983298,46.1316625],[18.2979789,46.1319936],[18.2978657,46.1320994]]},"properties":{"highway":"residential","name":"Rücker-akna"}}
 ]}

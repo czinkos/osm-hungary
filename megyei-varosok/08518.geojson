@@ -1773,5 +1773,5 @@
 {"type":"Feature","geometry":{"type":"LineString","coordinates":[[16.5537076,47.6961212],[16.5538159,47.6960824],[16.5542098,47.6957411]]},"properties":{"highway":"residential","name":"Somfalvi út"}},
 {"type":"Feature","geometry":{"type":"LineString","coordinates":[[16.5706231,47.6812782],[16.5708762,47.6814406]]},"properties":{"highway":"residential","name":"Felsőlövér út","surface":"asphalt"}},
 {"type":"Feature","geometry":{"type":"LineString","coordinates":[[16.5709666,47.6815123],[16.5708762,47.6814406]]},"properties":{"highway":"residential","name":"Lővér körút","surface":"asphalt"}},
-{"type":"Feature","geometry":{"type":"LineString","coordinates":[[16.587751,47.6907704],[16.5877003,47.6907242]]},"properties":{"highway":"residential","name":"Ferenczy János utca","surface":"asphalt"}},
+{"type":"Feature","geometry":{"type":"LineString","coordinates":[[16.587751,47.6907704],[16.5877003,47.6907242]]},"properties":{"highway":"residential","name":"Ferenczy János utca","surface":"asphalt"}}
 ]}

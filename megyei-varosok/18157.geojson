@@ -970,5 +970,5 @@
 {"type":"Feature","geometry":{"type":"LineString","coordinates":[[18.3933985,47.5745185],[18.3935016,47.574543]]},"properties":{"bridge":"yes","highway":"residential","layer":"1","name":"Sárközy Géza út"}},
 {"type":"Feature","geometry":{"type":"LineString","coordinates":[[18.3871088,47.5857127],[18.3871505,47.5857332],[18.3872596,47.585787],[18.3874957,47.5855916],[18.3877706,47.5853465]]},"properties":{"highway":"residential","name":"Erdész utca"}},
 {"type":"Feature","geometry":{"type":"LineString","coordinates":[[18.3892318,47.5927462],[18.3877723,47.5925546]]},"properties":{"highway":"residential","name":"Győri út","oneway":"yes"}},
-{"type":"Feature","geometry":{"type":"LineString","coordinates":[[18.3892925,47.592665],[18.3892318,47.5927462]]},"properties":{"highway":"residential","name":"Győri út","oneway":"yes"}},
+{"type":"Feature","geometry":{"type":"LineString","coordinates":[[18.3892925,47.592665],[18.3892318,47.5927462]]},"properties":{"highway":"residential","name":"Győri út","oneway":"yes"}}
 ]}

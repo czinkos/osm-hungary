@@ -1090,5 +1090,5 @@
 {"type":"Feature","geometry":{"type":"LineString","coordinates":[[20.3708385,47.9212892],[20.3703318,47.9212636],[20.3702226,47.9212585]]},"properties":{"highway":"residential","lanes":"2","name":"Cifrakapu utca"}},
 {"type":"Feature","geometry":{"type":"LineString","coordinates":[[20.3766555,47.917778],[20.3770114,47.9178503],[20.3771201,47.9178628],[20.3772004,47.9178304]]},"properties":{"highway":"service","name":"Cifrakapu utca"}},
 {"type":"Feature","geometry":{"type":"LineString","coordinates":[[20.3885275,47.8946067],[20.3883503,47.8947765],[20.3881634,47.8949561],[20.3879333,47.8951787]]},"properties":{"cycleway:left":"shared_lane","cycleway:right":"lane","highway":"tertiary","name":"Kertész utca","surface":"asphalt"}},
-{"type":"Feature","geometry":{"type":"LineString","coordinates":[[20.3686293,47.9271358],[20.3685957,47.92751],[20.3685652,47.9278512]]},"properties":{"highway":"primary","lanes":"4","lanes:backward":"2","lanes:forward":"2","maxspeed":"50","name":"II. Rákóczi Ferenc út","ref":"25","source:maxspeed":"HU:urban"}},
+{"type":"Feature","geometry":{"type":"LineString","coordinates":[[20.3686293,47.9271358],[20.3685957,47.92751],[20.3685652,47.9278512]]},"properties":{"highway":"primary","lanes":"4","lanes:backward":"2","lanes:forward":"2","maxspeed":"50","name":"II. Rákóczi Ferenc út","ref":"25","source:maxspeed":"HU:urban"}}
 ]}

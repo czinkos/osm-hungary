@@ -913,5 +913,5 @@
 {"type":"Feature","geometry":{"type":"LineString","coordinates":[[18.9432457,46.9812892],[18.9433347,46.9813411],[18.9435064,46.9814038]]},"properties":{"highway":"unclassified","name":"Ruhagyári út"}},
 {"type":"Feature","geometry":{"type":"LineString","coordinates":[[18.9431787,46.9814399],[18.9428157,46.9815153]]},"properties":{"highway":"tertiary","lanes":"2","maxspeed":"50","name":"Szigeti út","oneway":"no","ref":"51317","surface":"asphalt"}},
 {"type":"Feature","geometry":{"type":"LineString","coordinates":[[18.9373943,46.9829933],[18.9373158,46.9830143],[18.9370995,46.983089]]},"properties":{"highway":"tertiary","lanes":"2","maxspeed":"50","name":"Szigeti út","oneway":"yes","ref":"51317","surface":"asphalt"}},
-{"type":"Feature","geometry":{"type":"LineString","coordinates":[[18.9417586,46.9660028],[18.9415323,46.9659134],[18.9413296,46.9658334],[18.9412199,46.9657936]]},"properties":{"highway":"residential","lanes":"2","lit":"yes","name":"Október 23. tér","oneway":"no","surface":"asphalt"}},
+{"type":"Feature","geometry":{"type":"LineString","coordinates":[[18.9417586,46.9660028],[18.9415323,46.9659134],[18.9413296,46.9658334],[18.9412199,46.9657936]]},"properties":{"highway":"residential","lanes":"2","lit":"yes","name":"Október 23. tér","oneway":"no","surface":"asphalt"}}
 ]}

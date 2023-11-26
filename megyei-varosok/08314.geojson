@@ -929,5 +929,5 @@
 {"type":"Feature","geometry":{"type":"LineString","coordinates":[[20.327344,46.4198489],[20.3278533,46.4198496]]},"properties":{"bicycle":"use_sidepath","cycleway":"separate","highway":"residential","name":"Vöröskereszt utca"}},
 {"type":"Feature","geometry":{"type":"LineString","coordinates":[[20.3278533,46.4198496],[20.3283709,46.4198503]]},"properties":{"bicycle":"use_sidepath","cycleway":"separate","highway":"residential","name":"Vöröskereszt utca"}},
 {"type":"Feature","geometry":{"type":"LineString","coordinates":[[20.3283709,46.4198503],[20.3285607,46.4198506],[20.3295611,46.4197773],[20.3298108,46.419759],[20.3300659,46.4197186],[20.3302391,46.4196921]]},"properties":{"bicycle":"use_sidepath","cycleway":"separate","highway":"residential","name":"Vöröskereszt utca"}},
-{"type":"Feature","geometry":{"type":"LineString","coordinates":[[20.3257516,46.4198503],[20.3259457,46.4198557],[20.3266627,46.4198506],[20.327344,46.4198489]]},"properties":{"bicycle":"use_sidepath","cycleway":"separate","highway":"residential","name":"Vöröskereszt utca"}},
+{"type":"Feature","geometry":{"type":"LineString","coordinates":[[20.3257516,46.4198503],[20.3259457,46.4198557],[20.3266627,46.4198506],[20.327344,46.4198489]]},"properties":{"bicycle":"use_sidepath","cycleway":"separate","highway":"residential","name":"Vöröskereszt utca"}}
 ]}
